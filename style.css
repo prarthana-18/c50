@@ -1,0 +1,22 @@
+
+p{
+    color:darkred
+    
+}
+*{
+background-color: snow;
+}
+.images{
+    display:flex;
+    flex-direction:row;
+justify-content: space-evenly;
+}
+
+img {
+    border: darkslateblue  10px  solid;
+    border-radius: 20px;
+}
+.text{
+    color: deeppink;
+    font-size: 50;
+}
